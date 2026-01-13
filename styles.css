@@ -1,0 +1,14 @@
+.home-link {
+  padding: 8px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.recipe-box {
+  background-color: lightblue;
+  margin-left: 8px;
+  margin-right: 8px;
+  padding: 24px;
+}
